@@ -3,7 +3,7 @@ Pequenos projetos em Java
 
 Desafio proposto pela Capgemini com tres questões distintas.
 
-Projetos todos desenvolvidos em Java
+Projetos todos desenvolvidos em Java utilizando Spring Tools 4 para Eclipse
 
 # Questão 01
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere *
